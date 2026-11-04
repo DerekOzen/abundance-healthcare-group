@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/home-import",
+    "path": "/",
     "type": "page",
     "title": "Complex NDIS Care Sydney & Perth | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care Sydney & Perth | Abundance Healthcare Group",
@@ -9,10 +9,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-04T00:46:45.346Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T00:46:45.346Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-04T00:47:39.192Z",
+    "updatedBy": "joshua",
+    "isHome": true
   }
 ]
