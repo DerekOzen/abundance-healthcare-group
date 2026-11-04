@@ -1,15 +1,15 @@
-// Nifty — case-insensitive redirect handler (Cloudflare Pages Function). v1
+// Nifty — redirect handler (Cloudflare Pages Function). v2
 // Managed by the dashboard — 301 Redirect Bulk Delete & Replace. Do not edit by hand.
 //
-// Cloudflare's _redirects file matches case-sensitively, so a visit like
-// /tiler-Parramatta/ never fires the /tiler-parramatta/ rule and 404s. Pages and
-// redirect rules are always lowercase, so WHEN (and only when) a request would
-// otherwise 404, we send a mixed-case PAGE path to its lowercase form with a 301 —
-// the existing lowercase _redirects rule (or the real lowercase page) then matches.
+// Two safe jobs:
+//  1) If this site has a live custom domain, send the Cloudflare *.pages.dev duplicate
+//     address to that domain with a 301 (so the pages.dev copy doesn't linger or get indexed).
+//  2) Case-insensitive redirects: Cloudflare matches _redirects case-sensitively, so a visit
+//     like /tiler-Parramatta/ never fires the /tiler-parramatta/ rule. ONLY when a page would
+//     otherwise 404, we send a mixed-case page path to its lowercase form, where the rule lives.
 //
-// Safe by design: runs AFTER normal serving (next()), so every real page, asset and
-// existing redirect is returned untouched; we only ever act on a genuine 404, and we
-// never touch a path that looks like a file.
+// Safe by design: the case fix runs AFTER normal serving and only on a genuine 404, so real
+// pages, assets and existing redirects are untouched; a path that looks like a file is left alone.
 
 export async function onRequest(context) {
   const { request, next } = context;
