@@ -259,7 +259,7 @@
   {
     "id": "pg-17",
     "path": "/locations/nsw/complex-ndis-care-central-coast",
-    "type": "page",
+    "type": "location",
     "title": "Complex NDIS Care in the Central Coast | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in the Central Coast | Abundance Healthcare Group",
     "seoDescription": "Nurse-led complex and high-intensity NDIS care in the Central Coast. Complex community nursing, high-intensity personal care and 24/7 support. Registered NDIS provider.",
@@ -269,13 +269,13 @@
     "status": "draft",
     "createdAt": "2026-11-04T01:25:41.157Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T01:25:41.157Z",
+    "updatedAt": "2026-11-04T01:29:29.468Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-18",
     "path": "/locations/nsw/complex-ndis-care-fairfield",
-    "type": "page",
+    "type": "location",
     "title": "Complex NDIS Care in Fairfield | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in Fairfield | Abundance Healthcare Group",
     "seoDescription": "Nurse-led complex and high-intensity NDIS care in Fairfield. Complex community nursing, high-intensity personal care and 24/7 support. Registered NDIS provider.",
@@ -285,13 +285,13 @@
     "status": "draft",
     "createdAt": "2026-11-04T01:25:41.157Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T01:25:41.157Z",
+    "updatedAt": "2026-11-04T01:29:29.468Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-19",
     "path": "/locations/nsw/complex-ndis-care-liverpool",
-    "type": "page",
+    "type": "location",
     "title": "Complex NDIS Care in Liverpool | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in Liverpool | Abundance Healthcare Group",
     "seoDescription": "Nurse-led complex and high-intensity NDIS care in Liverpool. Complex community nursing, high-intensity personal care and 24/7 support. Registered NDIS provider.",
@@ -301,13 +301,13 @@
     "status": "draft",
     "createdAt": "2026-11-04T01:25:41.157Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T01:25:41.157Z",
+    "updatedAt": "2026-11-04T01:29:29.468Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-20",
     "path": "/locations/nsw/complex-ndis-care-newcastle",
-    "type": "page",
+    "type": "location",
     "title": "Complex NDIS Care in Newcastle | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in Newcastle | Abundance Healthcare Group",
     "seoDescription": "Nurse-led complex and high-intensity NDIS care in Newcastle. Complex community nursing, high-intensity personal care and 24/7 support. Registered NDIS provider.",
@@ -317,13 +317,13 @@
     "status": "draft",
     "createdAt": "2026-11-04T01:25:41.157Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T01:25:41.157Z",
+    "updatedAt": "2026-11-04T01:29:29.468Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-21",
     "path": "/locations/nsw/complex-ndis-care-parramatta",
-    "type": "page",
+    "type": "location",
     "title": "Complex NDIS Care in Parramatta | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in Parramatta | Abundance Healthcare Group",
     "seoDescription": "Nurse-led complex and high-intensity NDIS care in Parramatta. Complex community nursing, high-intensity personal care and 24/7 support. Registered NDIS provider.",
@@ -333,13 +333,13 @@
     "status": "draft",
     "createdAt": "2026-11-04T01:25:41.157Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T01:25:41.157Z",
+    "updatedAt": "2026-11-04T01:29:29.468Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-22",
     "path": "/locations/wa/complex-ndis-care-perth",
-    "type": "page",
+    "type": "location",
     "title": "Complex NDIS Care in Perth | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in Perth | Abundance Healthcare Group",
     "seoDescription": "Nurse-led complex and high-intensity NDIS care across the Perth metro area. Complex community nursing, high-intensity personal care and 24/7 support. Registered NDIS provider.",
@@ -349,13 +349,13 @@
     "status": "draft",
     "createdAt": "2026-11-04T01:25:41.157Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T01:25:41.157Z",
+    "updatedAt": "2026-11-04T01:29:29.468Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-23",
     "path": "/locations/nsw/complex-ndis-care-wollongong",
-    "type": "page",
+    "type": "location",
     "title": "Complex NDIS Care in Wollongong | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in Wollongong | Abundance Healthcare Group",
     "seoDescription": "Nurse-led complex and high-intensity NDIS care in Wollongong. Complex community nursing, high-intensity personal care and 24/7 support. Registered NDIS provider.",
@@ -365,13 +365,13 @@
     "status": "draft",
     "createdAt": "2026-11-04T01:25:41.157Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T01:25:41.157Z",
+    "updatedAt": "2026-11-04T01:29:29.468Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-24",
     "path": "/locations",
-    "type": "page",
+    "type": "location",
     "title": "Locations | Complex NDIS Care in NSW & WA | Abundance Healthcare Group",
     "seoTitle": "Locations | Complex NDIS Care in NSW & WA | Abundance Healthcare Group",
     "seoDescription": "Where we deliver complex NDIS care: Greater Sydney and NSW, and the Perth metro area in WA. Find complex and high-intensity NDIS support near you.",
@@ -381,7 +381,7 @@
     "status": "draft",
     "createdAt": "2026-11-04T01:25:41.157Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T01:25:41.157Z",
+    "updatedAt": "2026-11-04T01:29:29.468Z",
     "updatedBy": "joshua"
   },
   {
