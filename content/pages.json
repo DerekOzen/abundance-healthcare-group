@@ -15,5 +15,21 @@
     "updatedAt": "2026-11-03T23:56:06.336Z",
     "updatedBy": "joshua",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/about-us",
+    "type": "page",
+    "title": "About Us | Abundance Healthcare Group",
+    "seoTitle": "About Us | Abundance Healthcare Group",
+    "seoDescription": "Abundance Healthcare Group is a registered, nurse-led NDIS provider specialising in complex and high-intensity care across Sydney and Perth.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-04T00:01:41.912Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-11-04T00:01:41.912Z",
+    "updatedBy": "joshua"
   }
 ]
