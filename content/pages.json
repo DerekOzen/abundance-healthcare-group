@@ -815,5 +815,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-11-04T01:29:58.950Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-52",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You | Abundance Healthcare Group",
+    "seoTitle": "Thank You | Abundance Healthcare Group",
+    "seoDescription": "Your enquiry has reached the Abundance Healthcare Group intake team. A registered nurse will be in touch, usually within one business day.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-04T01:51:07.093Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-11-04T01:51:07.093Z",
+    "updatedBy": "joshua"
   }
 ]
