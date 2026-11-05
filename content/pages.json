@@ -14,5 +14,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-11-05T04:29:40.494Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-2",
+    "path": "/about",
+    "type": "page",
+    "title": "About",
+    "seoTitle": "About | Abundance Healthcare Group",
+    "seoDescription": "Nurse-led, registered NDIS provider specialising in complex and clinical care across Sydney, regional NSW and Perth. NDIS Reg ID 4-JCLD6XE.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-11-05T04:31:43.370Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-05T04:31:43.370Z",
+    "createdBy": "derek"
   }
 ]
