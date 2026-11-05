@@ -46,5 +46,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-11-05T04:55:14.227Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-4",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You",
+    "seoTitle": "Thank You | Abundance Healthcare Group",
+    "seoDescription": "Thank you for your enquiry to Abundance Healthcare Group. Our complex-care team will be in touch.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-11-05T04:55:51.592Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-05T04:55:51.592Z",
+    "createdBy": "derek"
   }
 ]
