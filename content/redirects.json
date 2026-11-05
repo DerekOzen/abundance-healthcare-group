@@ -28,13 +28,6 @@
     "fromRaw": "/privacy-policy"
   },
   {
-    "from": "/contact",
-    "to": "/",
-    "code": 301,
-    "at": "2026-11-05T02:11:13.020Z",
-    "fromRaw": "/contact"
-  },
-  {
     "from": "/complaints-and-feedback",
     "to": "/",
     "code": 301,
