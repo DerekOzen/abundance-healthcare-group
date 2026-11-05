@@ -30,5 +30,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-11-05T10:53:53.714Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-3",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You",
+    "seoTitle": "Thank you | Abundance Healthcare Group",
+    "seoDescription": "Thank you — your enquiry has been received. A nurse-led member of the Abundance Healthcare team will be in touch shortly.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-11-05T10:54:50.640Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-05T10:54:50.640Z",
+    "createdBy": "derek"
   }
 ]
