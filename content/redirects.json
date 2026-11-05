@@ -161,13 +161,6 @@
     "fromRaw": "/for-referrers"
   },
   {
-    "from": "/referral",
-    "to": "/",
-    "code": 301,
-    "at": "2026-11-05T02:11:13.020Z",
-    "fromRaw": "/referral"
-  },
-  {
     "from": "/nursing-agency-sydney",
     "to": "/",
     "code": 301,
