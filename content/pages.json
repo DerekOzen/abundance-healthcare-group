@@ -242,11 +242,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-04T22:29:39.897Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T22:50:02.232Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-05T02:09:52.202Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-18",
@@ -258,11 +259,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-04T22:31:48.613Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T22:50:02.232Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-05T02:09:52.202Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-19",
@@ -274,11 +276,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-04T22:31:48.613Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T22:50:02.232Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-05T02:09:52.202Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-20",
@@ -290,11 +293,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-04T22:31:48.613Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T22:50:02.232Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-05T02:09:52.202Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-21",
@@ -306,11 +310,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-04T22:31:48.613Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T22:50:02.232Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-05T02:09:52.202Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-22",
@@ -322,11 +327,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-04T22:31:48.613Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T22:50:02.232Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-05T02:09:52.202Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-23",
@@ -338,11 +344,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-04T22:31:48.613Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T22:50:02.232Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-05T02:09:52.202Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-24",
@@ -354,11 +361,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-04T22:31:48.613Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T22:50:02.232Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-05T02:09:52.202Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-25",
@@ -370,11 +378,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-04T22:31:48.613Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T22:50:02.232Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-05T02:09:52.202Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-26",
@@ -386,11 +395,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-04T22:31:48.613Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T22:50:02.232Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-05T02:09:52.202Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-27",
@@ -402,11 +412,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-04T22:31:48.613Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T22:50:02.232Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-05T02:09:52.202Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-28",
@@ -418,11 +429,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-04T22:31:48.613Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T22:50:02.232Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-05T02:09:52.202Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-29",
@@ -434,11 +446,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-04T22:31:48.613Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T22:50:02.232Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-05T02:09:52.202Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-30",
@@ -450,11 +463,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-04T22:31:48.613Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T22:50:02.232Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-05T02:09:52.202Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-31",
