@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "from": "/thank-you",
+    "to": "/",
+    "code": 301,
+    "at": "2026-11-05T05:34:53.106Z",
+    "fromRaw": "/thank-you"
+  },
+  {
+    "from": "/contact",
+    "to": "/",
+    "code": 301,
+    "at": "2026-11-05T05:34:53.106Z",
+    "fromRaw": "/contact"
+  },
+  {
+    "from": "/about",
+    "to": "/",
+    "code": 301,
+    "at": "2026-11-05T05:34:53.106Z",
+    "fromRaw": "/about"
+  }
+]
