@@ -15,5 +15,53 @@
     "createdAt": "2026-11-05T05:21:27.719Z",
     "createdBy": "derek",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/about",
+    "type": "page",
+    "title": "About | Abundance Healthcare Group",
+    "seoTitle": "About | Abundance Healthcare Group",
+    "seoDescription": "Nurse-led, registered NDIS provider specialising in complex and clinical care across Sydney, regional NSW and Perth. NDIS Reg ID 4-JCLD6XE.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-11-05T05:22:00.118Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-05T05:22:00.118Z",
+    "updatedBy": "derek"
+  },
+  {
+    "id": "pg-3",
+    "path": "/contact",
+    "type": "page",
+    "title": "Contact | Abundance Healthcare Group",
+    "seoTitle": "Contact | Abundance Healthcare Group",
+    "seoDescription": "Contact Abundance Healthcare Group for complex and clinical NDIS care. Make an enquiry online; Campbelltown NSW. We respond quickly.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-11-05T05:22:00.118Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-05T05:22:00.118Z",
+    "updatedBy": "derek"
+  },
+  {
+    "id": "pg-4",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You | Abundance Healthcare Group",
+    "seoTitle": "Thank You | Abundance Healthcare Group",
+    "seoDescription": "Thank you for your enquiry to Abundance Healthcare Group. Our complex-care team will be in touch.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-11-05T05:22:00.118Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-05T05:22:00.118Z",
+    "updatedBy": "derek"
   }
 ]
