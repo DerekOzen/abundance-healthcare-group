@@ -1,5 +1,40 @@
 [
   {
+    "from": "/referral",
+    "to": "/",
+    "code": 301,
+    "at": "2026-11-05T05:14:27.365Z",
+    "fromRaw": "/referral"
+  },
+  {
+    "from": "/thank-you",
+    "to": "/",
+    "code": 301,
+    "at": "2026-11-05T05:14:27.365Z",
+    "fromRaw": "/thank-you"
+  },
+  {
+    "from": "/contact",
+    "to": "/",
+    "code": 301,
+    "at": "2026-11-05T05:14:27.365Z",
+    "fromRaw": "/contact"
+  },
+  {
+    "from": "/about",
+    "to": "/",
+    "code": 301,
+    "at": "2026-11-05T05:14:27.365Z",
+    "fromRaw": "/about"
+  },
+  {
+    "from": "/home",
+    "to": "/",
+    "code": 301,
+    "at": "2026-11-05T05:14:27.365Z",
+    "fromRaw": "/home"
+  },
+  {
     "from": "/terms-and-conditions",
     "to": "/",
     "code": 301,
