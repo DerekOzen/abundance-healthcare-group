@@ -25,11 +25,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-11-05T04:33:46.531Z",
+    "status": "deleted",
+    "updatedAt": "2026-11-05T05:04:05.154Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-05T04:31:43.370Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-3",
