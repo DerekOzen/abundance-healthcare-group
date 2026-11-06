@@ -338,7 +338,7 @@
   },
   {
     "id": "pg-22",
-    "path": "/for-referrers-mnd-coordinators",
+    "path": "/for-referrers/mnd-coordinators",
     "type": "page",
     "title": "For MND Coordinators | Abundance Healthcare Group",
     "seoTitle": "For MND Coordinators | Abundance Healthcare Group",
@@ -346,10 +346,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:18:57.135Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:18:57.135Z",
+    "updatedAt": "2026-11-06T22:28:09.961Z",
     "updatedBy": "derek"
   },
   {
