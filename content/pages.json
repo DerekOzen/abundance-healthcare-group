@@ -642,7 +642,7 @@
   },
   {
     "id": "pg-41",
-    "path": "/locations-nsw-sutherland-shire",
+    "path": "/locations/nsw/sutherland-shire",
     "type": "location",
     "title": "Complex NDIS Care in Sutherland Shire — Sydney | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in Sutherland Shire — Sydney | Abundance Healthcare Group",
@@ -650,10 +650,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:39:33.812Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:39:33.812Z",
+    "updatedAt": "2026-11-06T23:02:54.575Z",
     "updatedBy": "derek"
   },
   {
