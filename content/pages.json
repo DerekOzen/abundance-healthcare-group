@@ -186,10 +186,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:07:58.892Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:07:58.892Z",
+    "updatedAt": "2026-11-06T22:15:32.508Z",
     "updatedBy": "derek"
   },
   {
