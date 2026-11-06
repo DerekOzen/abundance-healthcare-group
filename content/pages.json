@@ -415,5 +415,53 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-06T22:29:21.078Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-27",
+    "path": "/locations",
+    "type": "location",
+    "title": "Where We Deliver Complex NDIS Care | Abundance Healthcare Group",
+    "seoTitle": "Where We Deliver Complex NDIS Care | Abundance Healthcare Group",
+    "seoDescription": "Where Abundance Healthcare delivers complex, clinical and 24/7 NDIS care — across Greater Sydney and the Perth metro area. Reg ID 4-JCLD6XE.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-11-06T22:30:16.416Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-06T22:30:16.416Z",
+    "updatedBy": "derek"
+  },
+  {
+    "id": "pg-28",
+    "path": "/locations-nsw",
+    "type": "location",
+    "title": "Complex NDIS Care in Sydney | Abundance Healthcare Group",
+    "seoTitle": "Complex NDIS Care in Sydney | Abundance Healthcare Group",
+    "seoDescription": "Nurse-led complex and high-intensity NDIS care across Greater Sydney: high-intensity personal care, complex community nursing and 24/7 support. Registered NDIS provider.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-11-06T22:30:16.416Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-06T22:30:16.416Z",
+    "updatedBy": "derek"
+  },
+  {
+    "id": "pg-29",
+    "path": "/locations-wa",
+    "type": "location",
+    "title": "Complex NDIS Care — Perth & WA | Abundance Healthcare Group",
+    "seoTitle": "Complex NDIS Care — Perth & WA | Abundance Healthcare Group",
+    "seoDescription": "Complex, clinical and 24/7 NDIS care across the Perth metropolitan area — nurse-led, registered. Reg ID 4-JCLD6XE.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-11-06T22:30:16.416Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-06T22:30:16.416Z",
+    "updatedBy": "derek"
   }
 ]
