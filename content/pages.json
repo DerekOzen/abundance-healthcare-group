@@ -530,7 +530,7 @@
   },
   {
     "id": "pg-34",
-    "path": "/locations-nsw-northern-sydney",
+    "path": "/locations/nsw/northern-sydney",
     "type": "location",
     "title": "Complex NDIS Care in Northern Sydney — Sydney | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in Northern Sydney — Sydney | Abundance Healthcare Group",
@@ -538,10 +538,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:37:06.112Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:37:06.112Z",
+    "updatedAt": "2026-11-06T22:55:13.623Z",
     "updatedBy": "derek"
   },
   {
