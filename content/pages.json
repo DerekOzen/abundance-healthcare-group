@@ -290,7 +290,7 @@
   },
   {
     "id": "pg-19",
-    "path": "/who-we-support-spinal-cord-injury",
+    "path": "/who-we-support/spinal-cord-injury",
     "type": "page",
     "title": "NDIS Support for Spinal Cord Injury Sydney | Abundance Healthcare Group",
     "seoTitle": "NDIS Support for Spinal Cord Injury Sydney | Abundance Healthcare Group",
@@ -298,10 +298,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:07:58.892Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:07:58.892Z",
+    "updatedAt": "2026-11-06T22:17:15.628Z",
     "updatedBy": "derek"
   }
 ]
