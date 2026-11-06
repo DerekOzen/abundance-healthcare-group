@@ -840,12 +840,12 @@
     "seoTitle": "Is Home Care Safe For Patients With Dementia? | Abundance Healthcare Group",
     "seoDescription": "What makes home care safe for people living with dementia. Nurse-led registered NDIS provider, Reg ID 4-JCLD6XE.",
     "layout": "mockup",
-    "headerPartId": "header-3",
-    "footerPartId": "footer-3",
-    "status": "published",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
     "createdAt": "2026-11-06T23:09:21.192Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T23:24:02.324Z",
+    "updatedAt": "2026-11-06T23:09:21.192Z",
     "updatedBy": "derek"
   },
   {
@@ -856,12 +856,12 @@
     "seoTitle": "NDIS Registered vs Non-Registered Providers: What the Difference Means for You | Abundance Healthcare Group",
     "seoDescription": "What the difference between NDIS registered and non-registered providers means for you. Nurse-led registered NDIS provider, Reg ID 4-JCLD6XE.",
     "layout": "mockup",
-    "headerPartId": "header-1",
-    "footerPartId": "footer-1",
-    "status": "draft",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "published",
     "createdAt": "2026-11-06T23:09:21.192Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T23:09:21.192Z",
+    "updatedAt": "2026-11-06T23:24:06.143Z",
     "updatedBy": "derek"
   },
   {
