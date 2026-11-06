@@ -274,7 +274,7 @@
   },
   {
     "id": "pg-18",
-    "path": "/who-we-support-progressive-neurological",
+    "path": "/who-we-support/progressive-neurological",
     "type": "page",
     "title": "NDIS Support for Progressive Neurological Conditions Sydney | Abundance Healthcare Group",
     "seoTitle": "NDIS Support for Progressive Neurological Conditions Sydney | Abundance Healthcare Group",
@@ -282,10 +282,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:07:58.892Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:07:58.892Z",
+    "updatedAt": "2026-11-06T22:17:06.601Z",
     "updatedBy": "derek"
   },
   {
