@@ -434,7 +434,7 @@
   },
   {
     "id": "pg-28",
-    "path": "/locations-nsw",
+    "path": "/locations/nsw",
     "type": "location",
     "title": "Complex NDIS Care in Sydney | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in Sydney | Abundance Healthcare Group",
@@ -442,10 +442,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:30:16.416Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:30:16.416Z",
+    "updatedAt": "2026-11-06T22:31:32.059Z",
     "updatedBy": "derek"
   },
   {
