@@ -322,7 +322,7 @@
   },
   {
     "id": "pg-21",
-    "path": "/for-referrers-hospital-discharge-planners",
+    "path": "/for-referrers/hospital-discharge-planners",
     "type": "page",
     "title": "For Hospital Discharge Planners | Abundance Healthcare Group",
     "seoTitle": "For Hospital Discharge Planners | Abundance Healthcare Group",
@@ -330,10 +330,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:18:57.135Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:18:57.135Z",
+    "updatedAt": "2026-11-06T22:27:31.188Z",
     "updatedBy": "derek"
   },
   {
