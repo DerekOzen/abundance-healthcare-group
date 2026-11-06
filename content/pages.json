@@ -82,7 +82,7 @@
   },
   {
     "id": "pg-6",
-    "path": "/services/clinical-capabilities",
+    "path": "/clinical-capabilities",
     "type": "service",
     "title": "Clinical Capabilities — Complex NDIS Nursing | Abundance Healthcare Group",
     "seoTitle": "Clinical Capabilities — Complex NDIS Nursing | Abundance Healthcare Group",
@@ -93,7 +93,7 @@
     "status": "published",
     "createdAt": "2026-11-06T22:00:28.357Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:05:52.202Z",
+    "updatedAt": "2026-11-06T22:06:04.711Z",
     "updatedBy": "derek"
   },
   {
