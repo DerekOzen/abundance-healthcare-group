@@ -610,7 +610,7 @@
   },
   {
     "id": "pg-39",
-    "path": "/locations-nsw-st-george",
+    "path": "/locations/nsw/st-george",
     "type": "location",
     "title": "Complex NDIS Care in St George — Sydney | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in St George — Sydney | Abundance Healthcare Group",
@@ -618,10 +618,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:39:33.812Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:39:33.812Z",
+    "updatedAt": "2026-11-06T22:57:44.021Z",
     "updatedBy": "derek"
   },
   {
@@ -642,7 +642,7 @@
   },
   {
     "id": "pg-41",
-    "path": "/locations/nsw/sutherland-shire",
+    "path": "/locations-nsw-sutherland-shire",
     "type": "location",
     "title": "Complex NDIS Care in Sutherland Shire — Sydney | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in Sutherland Shire — Sydney | Abundance Healthcare Group",
@@ -650,15 +650,15 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "draft",
     "createdAt": "2026-11-06T22:39:33.812Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:57:48.069Z",
+    "updatedAt": "2026-11-06T22:39:33.812Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-42",
-    "path": "/locations-nsw-western-sydney",
+    "path": "/locations/nsw/western-sydney",
     "type": "location",
     "title": "Complex NDIS Care in Western Sydney — Sydney | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in Western Sydney — Sydney | Abundance Healthcare Group",
@@ -666,10 +666,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:39:33.812Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:39:33.812Z",
+    "updatedAt": "2026-11-06T22:57:52.086Z",
     "updatedBy": "derek"
   },
   {
@@ -690,7 +690,7 @@
   },
   {
     "id": "pg-44",
-    "path": "/locations-nsw-western-sydney-parramatta",
+    "path": "/locations/nsw/western-sydney-parramatta",
     "type": "location",
     "title": "Complex NDIS Care in Parramatta | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in Parramatta | Abundance Healthcare Group",
@@ -698,15 +698,15 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:39:33.812Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:39:33.812Z",
+    "updatedAt": "2026-11-06T22:57:57.736Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-45",
-    "path": "/locations/nsw/western-sydney-penrith",
+    "path": "/locations-nsw-western-sydney-penrith",
     "type": "location",
     "title": "Complex NDIS Care in Penrith | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in Penrith | Abundance Healthcare Group",
@@ -714,10 +714,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "draft",
     "createdAt": "2026-11-06T22:39:33.812Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:58:02.971Z",
+    "updatedAt": "2026-11-06T22:39:33.812Z",
     "updatedBy": "derek"
   }
 ]
