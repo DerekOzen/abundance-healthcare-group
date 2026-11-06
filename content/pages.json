@@ -9,12 +9,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-11-05T10:55:18.421Z",
+    "status": "deleted",
+    "updatedAt": "2026-11-06T21:32:52.310Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-05T10:52:19.005Z",
     "createdBy": "derek",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-2",
@@ -26,11 +26,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-11-05T10:54:00.588Z",
+    "status": "deleted",
+    "updatedAt": "2026-11-06T21:32:52.310Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-05T10:53:53.714Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-3",
@@ -42,11 +43,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-11-05T10:54:57.892Z",
+    "status": "deleted",
+    "updatedAt": "2026-11-06T21:32:52.310Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-05T10:54:50.640Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-4",
@@ -58,11 +60,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-11-05T10:56:38.019Z",
+    "status": "deleted",
+    "updatedAt": "2026-11-06T21:32:52.310Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-05T10:56:16.201Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-5",
@@ -74,11 +77,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-11-05T10:57:38.769Z",
+    "status": "deleted",
+    "updatedAt": "2026-11-06T21:32:52.310Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-05T10:57:31.233Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-6",
