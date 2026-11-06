@@ -987,10 +987,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
-    "updatedAt": "2026-11-06T23:28:51.919Z",
+    "status": "deleted",
+    "updatedAt": "2026-11-06T23:30:34.072Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-06T23:22:40.741Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   }
 ]
