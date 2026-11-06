@@ -578,7 +578,7 @@
   },
   {
     "id": "pg-37",
-    "path": "/locations-nsw-south-west-sydney-fairfield",
+    "path": "/locations/nsw/south-west-sydney-fairfield",
     "type": "location",
     "title": "Complex NDIS Care in Fairfield | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in Fairfield | Abundance Healthcare Group",
@@ -586,10 +586,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:39:33.812Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:39:33.812Z",
+    "updatedAt": "2026-11-06T22:56:19.430Z",
     "updatedBy": "derek"
   },
   {
