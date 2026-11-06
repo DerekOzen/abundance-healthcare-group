@@ -402,7 +402,7 @@
   },
   {
     "id": "pg-26",
-    "path": "/nursing-agency-sydney",
+    "path": "/nursing-agency/sydney",
     "type": "page",
     "title": "Nursing Agency Sydney | Abundance Healthcare Group",
     "seoTitle": "Nursing Agency Sydney | Abundance Healthcare Group",
@@ -410,10 +410,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:18:57.135Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:18:57.135Z",
+    "updatedAt": "2026-11-06T22:29:21.078Z",
     "updatedBy": "derek"
   }
 ]
