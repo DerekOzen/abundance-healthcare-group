@@ -226,7 +226,7 @@
   },
   {
     "id": "pg-15",
-    "path": "/who-we-support-complex-high-intensity",
+    "path": "/who-we-support/complex-high-intensity",
     "type": "page",
     "title": "Complex & High-Intensity NDIS Support Sydney | Abundance Healthcare Group",
     "seoTitle": "Complex & High-Intensity NDIS Support Sydney | Abundance Healthcare Group",
@@ -234,10 +234,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:07:58.892Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:07:58.892Z",
+    "updatedAt": "2026-11-06T22:16:16.288Z",
     "updatedBy": "derek"
   },
   {
