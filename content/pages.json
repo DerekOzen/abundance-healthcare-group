@@ -959,5 +959,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-06T23:09:21.192Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-61",
+    "path": "/home-new",
+    "type": "page",
+    "title": "Home New",
+    "seoTitle": "Complex NDIS Care Sydney & Perth | Abundance Healthcare Group",
+    "seoDescription": "Nurse-led complex and high-intensity NDIS care across Sydney and Perth. HIDPA, complex nursing, 24/7 support and hospital-to-home. Talk to our team today.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-11-06T23:21:21.496Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-06T23:21:21.496Z",
+    "createdBy": "derek"
   }
 ]
