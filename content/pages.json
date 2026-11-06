@@ -242,7 +242,7 @@
   },
   {
     "id": "pg-16",
-    "path": "/who-we-support-mental-health-psychosocial",
+    "path": "/who-we-support/mental-health-psychosocial",
     "type": "page",
     "title": "NDIS Psychosocial & Mental Health Support Sydney | Abundance Healthcare Group",
     "seoTitle": "NDIS Psychosocial & Mental Health Support Sydney | Abundance Healthcare Group",
@@ -250,10 +250,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:07:58.892Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:07:58.892Z",
+    "updatedAt": "2026-11-06T22:16:25.822Z",
     "updatedBy": "derek"
   },
   {
