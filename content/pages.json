@@ -354,7 +354,7 @@
   },
   {
     "id": "pg-23",
-    "path": "/for-referrers-specialist-support-coordinators",
+    "path": "/for-referrers/specialist-support-coordinators",
     "type": "page",
     "title": "For Specialist & Level 3 Support Coordinators | Abundance Healthcare Group",
     "seoTitle": "For Specialist & Level 3 Support Coordinators | Abundance Healthcare Group",
@@ -362,10 +362,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:18:57.135Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:18:57.135Z",
+    "updatedAt": "2026-11-06T22:27:11.118Z",
     "updatedBy": "derek"
   },
   {
