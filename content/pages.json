@@ -658,7 +658,7 @@
   },
   {
     "id": "pg-42",
-    "path": "/locations-nsw-western-sydney",
+    "path": "/locations/nsw/western-sydney",
     "type": "location",
     "title": "Complex NDIS Care in Western Sydney — Sydney | Abundance Healthcare Group",
     "seoTitle": "Complex NDIS Care in Western Sydney — Sydney | Abundance Healthcare Group",
@@ -666,10 +666,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-06T22:39:33.812Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-06T22:39:33.812Z",
+    "updatedAt": "2026-11-06T22:57:52.086Z",
     "updatedBy": "derek"
   },
   {
