@@ -20,7 +20,8 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Inter:wght@400;500;600&display=swap"
     ],
-    "updatedAt": "2026-11-05T10:52:16.784Z"
+    "updatedAt": "2026-11-09T05:28:15.362Z",
+    "deleted": true
   },
   {
     "id": "header-2",
@@ -43,7 +44,8 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Inter:wght@400;500;600&display=swap"
     ],
-    "updatedAt": "2026-11-06T23:21:19.477Z"
+    "updatedAt": "2026-11-09T05:28:15.362Z",
+    "deleted": true
   },
   {
     "id": "header-3",
