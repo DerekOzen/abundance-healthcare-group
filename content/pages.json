@@ -981,5 +981,21 @@
     "updatedBy": "joshua",
     "featuredImage": "/uploads/why-is-the-demand-for-nursing-care-servi-f4bc5050.jpg",
     "featuredImageAlt": "Nurse wearing blue scrubs holding the hand of an elderly patient lying in bed."
+  },
+  {
+    "id": "pg-61",
+    "path": "/blog/ndis-high-intensity-support-criteria",
+    "type": "post",
+    "title": "What Does a Community Nurse Do Under the NDIS? | Abundance Healthcare Group",
+    "seoTitle": "What Does a Community Nurse Do Under the NDIS? | Abundance Healthcare Group",
+    "seoDescription": "What does a community nurse do? The clinical tasks an NDIS community nurse covers at home, how the role differs from a support worker, and when to ask.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-12T05:15:12.012Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-12T05:15:12.012Z",
+    "updatedBy": "gabriel"
   }
 ]
