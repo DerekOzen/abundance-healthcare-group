@@ -992,10 +992,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "createdAt": "2026-11-12T05:15:12.012Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-11-12T05:15:12.012Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-11-12T05:15:44.403Z",
+    "updatedBy": "gabriel",
+    "isHome": false
   }
 ]
