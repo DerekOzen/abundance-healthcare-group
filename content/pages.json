@@ -998,5 +998,53 @@
     "updatedAt": "2026-11-12T05:15:44.403Z",
     "updatedBy": "gabriel",
     "isHome": false
+  },
+  {
+    "id": "pg-62",
+    "path": "/blog/level-3-support-coordination",
+    "type": "post",
+    "title": "Level 3 Support Coordination: When You Need a Specialist | Abundance Healthcare Group",
+    "seoTitle": "Level 3 Support Coordination: When You Need a Specialist | Abundance Healthcare Group",
+    "seoDescription": "Level 3 support coordination explained: how specialist support coordination differs from Levels 1 and 2, when the NDIA funds it, and how to ask for it.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-12T22:37:52.791Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-12T22:37:52.791Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-63",
+    "path": "/blog/ndis-high-intensity-support-criteria",
+    "type": "post",
+    "title": "NDIS High Intensity Support Criteria: Who Qualifies | Abundance Healthcare Group",
+    "seoTitle": "NDIS High Intensity Support Criteria: Who Qualifies | Abundance Healthcare Group",
+    "seoDescription": "NDIS high intensity support criteria explained: the eight Module 1 supports, who qualifies, and what a provider must prove before delivering.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-12T22:37:52.791Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-12T22:37:52.791Z",
+    "updatedBy": "gabriel"
+  },
+  {
+    "id": "pg-64",
+    "path": "/blog/what-does-a-community-nurse-do",
+    "type": "post",
+    "title": "What Does a Community Nurse Do Under the NDIS? | Abundance Healthcare Group",
+    "seoTitle": "What Does a Community Nurse Do Under the NDIS? | Abundance Healthcare Group",
+    "seoDescription": "What does a community nurse do? The clinical tasks an NDIS community nurse covers at home, how the role differs from a support worker, and when to ask.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-12T22:37:52.791Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-12T22:37:52.791Z",
+    "updatedBy": "gabriel"
   }
 ]
