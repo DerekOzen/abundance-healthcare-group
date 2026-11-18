@@ -1064,10 +1064,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-18T00:08:49.225Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-11-18T00:08:49.225Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-11-18T00:10:19.350Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/ahg-blog-abundance-healthcare-clinical-team.jpg",
+    "featuredImageAlt": "Abundance Healthcare clinical team discussing complex NDIS care"
   }
 ]
