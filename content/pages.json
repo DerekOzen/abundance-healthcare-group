@@ -1053,5 +1053,21 @@
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/what-does-a-community-nurse-do-clinical--9e62705b.jpg",
     "featuredImageAlt": "Community nurse care supplies arranged for clinical nursing services at home."
+  },
+  {
+    "id": "pg-65",
+    "path": "/blog",
+    "type": "post",
+    "title": "NDIS Insights & Articles | Abundance Healthcare Group",
+    "seoTitle": "NDIS Insights & Articles | Abundance Healthcare Group",
+    "seoDescription": "Practical articles on complex and clinical NDIS care from a nurse-led registered provider. Reg ID 4-JCLD6XE.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-18T00:08:49.225Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-18T00:08:49.225Z",
+    "updatedBy": "gabriel"
   }
 ]
