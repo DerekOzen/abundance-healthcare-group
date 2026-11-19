@@ -1636,7 +1636,7 @@
   },
   {
     "id": "pg-99",
-    "path": "/thank-you-2",
+    "path": "/thank-you",
     "type": "page",
     "title": "Thank You | Abundance Healthcare Group",
     "seoTitle": "Thank You | Abundance Healthcare Group",
@@ -1644,10 +1644,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:24:17.555Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:24:17.555Z",
+    "updatedAt": "2026-11-19T19:37:37.768Z",
     "updatedBy": "derek"
   }
 ]
