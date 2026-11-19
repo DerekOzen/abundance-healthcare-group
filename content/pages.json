@@ -1796,7 +1796,7 @@
   },
   {
     "id": "pg-108",
-    "path": "/locations-nsw-south-west-sydney-fairfield",
+    "path": "/locations/nsw/south-west-sydney-fairfield",
     "type": "location",
     "title": "NDIS Provider Fairfield, Culturally Matched | Abundance",
     "seoTitle": "NDIS Provider Fairfield, Culturally Matched | Abundance",
@@ -1804,10 +1804,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:39:45.472Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:39:45.472Z",
+    "updatedAt": "2026-11-19T19:42:23.052Z",
     "updatedBy": "derek"
   },
   {
