@@ -1346,7 +1346,7 @@
   },
   {
     "id": "pg-82",
-    "path": "/who-we-support-complex-high-intensity",
+    "path": "/who-we-support/complex-high-intensity",
     "type": "page",
     "title": "NDIS Complex Care for High Intensity Needs | Abundance",
     "seoTitle": "NDIS Complex Care for High Intensity Needs | Abundance",
@@ -1354,10 +1354,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T11:08:33.428Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T11:08:33.428Z",
+    "updatedAt": "2026-11-19T18:46:11.570Z",
     "updatedBy": "derek"
   },
   {
