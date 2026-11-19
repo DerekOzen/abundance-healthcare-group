@@ -1299,7 +1299,7 @@
   },
   {
     "id": "pg-79",
-    "path": "/who-we-support-2",
+    "path": "/who-we-support",
     "type": "page",
     "title": "Who We Support, Complex NDIS Needs | Abundance Healthcare",
     "seoTitle": "Who We Support, Complex NDIS Needs | Abundance Healthcare",
@@ -1307,10 +1307,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T11:08:33.428Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T11:08:33.428Z",
+    "updatedAt": "2026-11-19T18:46:49.369Z",
     "updatedBy": "derek"
   },
   {
