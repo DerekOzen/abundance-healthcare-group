@@ -1364,7 +1364,7 @@
   },
   {
     "id": "pg-83",
-    "path": "/who-we-support-mental-health-psychosocial",
+    "path": "/who-we-support/mental-health-psychosocial",
     "type": "page",
     "title": "NDIS Psychosocial Support, Complex Needs | Abundance",
     "seoTitle": "NDIS Psychosocial Support, Complex Needs | Abundance",
@@ -1372,10 +1372,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T11:08:33.428Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T11:08:33.428Z",
+    "updatedAt": "2026-11-19T18:47:24.091Z",
     "updatedBy": "derek"
   },
   {
