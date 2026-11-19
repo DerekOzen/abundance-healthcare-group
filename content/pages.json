@@ -1908,7 +1908,7 @@
   },
   {
     "id": "pg-115",
-    "path": "/locations-wa",
+    "path": "/locations/wa",
     "type": "location",
     "title": "NDIS Provider Perth, Complex Care and Nursing | Abundance",
     "seoTitle": "NDIS Provider Perth, Complex Care and Nursing | Abundance",
@@ -1919,7 +1919,7 @@
     "status": "published",
     "createdAt": "2026-11-19T19:39:45.472Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:44:08.626Z",
+    "updatedAt": "2026-11-19T19:44:41.536Z",
     "updatedBy": "derek"
   }
 ]
