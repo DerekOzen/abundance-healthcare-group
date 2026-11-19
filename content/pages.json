@@ -1074,7 +1074,7 @@
   },
   {
     "id": "pg-66",
-    "path": "/home-2",
+    "path": "/",
     "type": "page",
     "title": "Home 2",
     "seoTitle": "NDIS Provider Sydney & Perth | Abundance Healthcare Group",
@@ -1083,9 +1083,10 @@
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-11-19T10:57:47.510Z",
+    "updatedAt": "2026-11-19T10:58:45.258Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-19T10:57:29.110Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": true
   }
 ]
