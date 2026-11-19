@@ -1748,7 +1748,7 @@
   },
   {
     "id": "pg-105",
-    "path": "/locations-nsw-northern-sydney",
+    "path": "/locations/nsw/northern-sydney",
     "type": "location",
     "title": "NDIS Provider North Shore and Northern Sydney | Abundance",
     "seoTitle": "NDIS Provider North Shore and Northern Sydney | Abundance",
@@ -1756,10 +1756,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:39:45.472Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:39:45.472Z",
+    "updatedAt": "2026-11-19T19:41:17.957Z",
     "updatedBy": "derek"
   },
   {
