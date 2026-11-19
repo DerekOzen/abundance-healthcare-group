@@ -1451,7 +1451,7 @@
   },
   {
     "id": "pg-88",
-    "path": "/careers-2",
+    "path": "/careers",
     "type": "page",
     "title": "NDIS Nurse and Support Worker Jobs | Abundance Healthcare",
     "seoTitle": "NDIS Nurse and Support Worker Jobs | Abundance Healthcare",
@@ -1459,10 +1459,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:24:17.555Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:24:17.555Z",
+    "updatedAt": "2026-11-19T19:27:19.321Z",
     "updatedBy": "derek"
   },
   {
