@@ -1415,7 +1415,7 @@
   },
   {
     "id": "pg-86",
-    "path": "/who-we-support-spinal-cord-injury",
+    "path": "/who-we-support/spinal-cord-injury",
     "type": "page",
     "title": "Spinal Cord Injury NDIS Support at Home | Abundance",
     "seoTitle": "Spinal Cord Injury NDIS Support at Home | Abundance",
@@ -1423,10 +1423,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T11:08:33.428Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T11:08:33.428Z",
+    "updatedAt": "2026-11-19T18:49:13.766Z",
     "updatedBy": "derek"
   }
 ]
