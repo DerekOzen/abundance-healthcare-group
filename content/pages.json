@@ -1876,7 +1876,7 @@
   },
   {
     "id": "pg-113",
-    "path": "/locations-nsw-western-sydney-blacktown",
+    "path": "/locations/nsw/western-sydney-blacktown",
     "type": "location",
     "title": "NDIS Provider Blacktown, Complex Care | Abundance Healthcare",
     "seoTitle": "NDIS Provider Blacktown, Complex Care | Abundance Healthcare",
@@ -1884,10 +1884,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:39:45.472Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:39:45.472Z",
+    "updatedAt": "2026-11-19T19:43:55.921Z",
     "updatedBy": "derek"
   },
   {
