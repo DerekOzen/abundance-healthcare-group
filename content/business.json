@@ -10,5 +10,13 @@
   "postcode": "2560",
   "country": "AU",
   "areaServed": "Sydney & Perth",
-  "openingHours": "Monday 9 AM – 5 PM Tuesday 9 AM – 5 PM Wednesday 9 AM – 5 PM Thursday 9 AM – 5 PM Friday 9 AM – 5 PM Saturday Closed Sunday Closed"
+  "openingHours": "Monday 9 AM – 5 PM Tuesday 9 AM – 5 PM Wednesday 9 AM – 5 PM Thursday 9 AM – 5 PM Friday 9 AM – 5 PM Saturday Closed Sunday Closed",
+  "priceRange": "$$$-$$$$$",
+  "latitude": "-34.06320984050916",
+  "longitude": "150.82245101349244",
+  "logo": "https://abundancehealthcaregroup.com.au/uploads/logo-primary.png",
+  "image": "https://abundancehealthcaregroup.com.au/uploads/ahg-home-registered-nurse-providing-complex.jpg",
+  "facebook": "https://www.facebook.com/abundancehealthcaregroup",
+  "instagram": "https://www.instagram.com/abundancehealthcaregroup/",
+  "linkedin": "https://www.linkedin.com/company/abundance-health-care-group"
 }
