@@ -1828,7 +1828,7 @@
   },
   {
     "id": "pg-110",
-    "path": "/locations-nsw-st-george",
+    "path": "/locations/nsw/st-george",
     "type": "location",
     "title": "NDIS Provider St George Area, Complex Care | Abundance",
     "seoTitle": "NDIS Provider St George Area, Complex Care | Abundance",
@@ -1836,10 +1836,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:39:45.472Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:39:45.472Z",
+    "updatedAt": "2026-11-19T19:42:37.296Z",
     "updatedBy": "derek"
   },
   {
