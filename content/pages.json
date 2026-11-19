@@ -1312,7 +1312,7 @@
   },
   {
     "id": "pg-80",
-    "path": "/who-we-support-acquired-brain-injury",
+    "path": "/who-we-support/acquired-brain-injury",
     "type": "page",
     "title": "Acquired Brain Injury NDIS Support | Abundance Healthcare",
     "seoTitle": "Acquired Brain Injury NDIS Support | Abundance Healthcare",
@@ -1320,10 +1320,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T11:08:33.428Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T11:08:33.428Z",
+    "updatedAt": "2026-11-19T18:44:34.370Z",
     "updatedBy": "derek"
   },
   {
