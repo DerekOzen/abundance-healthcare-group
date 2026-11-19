@@ -1432,7 +1432,7 @@
   },
   {
     "id": "pg-87",
-    "path": "/about-us-2",
+    "path": "/about-us",
     "type": "page",
     "title": "About Abundance Healthcare Group, NDIS Provider",
     "seoTitle": "About Abundance Healthcare Group, NDIS Provider",
@@ -1440,10 +1440,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:24:17.555Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:24:17.555Z",
+    "updatedAt": "2026-11-19T19:25:24.444Z",
     "updatedBy": "derek"
   },
   {
