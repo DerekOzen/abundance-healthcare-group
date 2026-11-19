@@ -1143,7 +1143,7 @@
   },
   {
     "id": "pg-70",
-    "path": "/services-assist-personal-activities-high",
+    "path": "/services/assist-personal-activities-high",
     "type": "page",
     "title": "High Intensity Daily Personal Activities | Abundance",
     "seoTitle": "High Intensity Daily Personal Activities | Abundance",
@@ -1151,10 +1151,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T10:59:59.865Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:59:59.865Z",
+    "updatedAt": "2026-11-19T11:03:58.053Z",
     "updatedBy": "derek"
   },
   {
