@@ -1684,7 +1684,7 @@
   },
   {
     "id": "pg-101",
-    "path": "/locations-nsw-eastern-suburbs",
+    "path": "/locations/nsw/eastern-suburbs",
     "type": "location",
     "title": "Disability Services Eastern Suburbs Sydney | Abundance",
     "seoTitle": "Disability Services Eastern Suburbs Sydney | Abundance",
@@ -1692,10 +1692,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:39:45.472Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:39:45.472Z",
+    "updatedAt": "2026-11-19T19:40:33.073Z",
     "updatedBy": "derek"
   },
   {
