@@ -1211,7 +1211,7 @@
   },
   {
     "id": "pg-74",
-    "path": "/blog-what-does-a-community-nurse-do",
+    "path": "/blog/what-does-a-community-nurse-do",
     "type": "post",
     "title": "What Does a Community Nurse Do? NDIS Guide | Abundance",
     "seoTitle": "What Does a Community Nurse Do? NDIS Guide | Abundance",
@@ -1219,10 +1219,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T11:06:15.489Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T11:06:15.489Z",
+    "updatedAt": "2026-11-19T11:07:47.955Z",
     "updatedBy": "derek"
   }
 ]
