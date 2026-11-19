@@ -1594,7 +1594,7 @@
   },
   {
     "id": "pg-97",
-    "path": "/privacy-policy-2",
+    "path": "/privacy-policy",
     "type": "page",
     "title": "Privacy Policy | Abundance Healthcare Group",
     "seoTitle": "Privacy Policy | Abundance Healthcare Group",
@@ -1602,10 +1602,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:24:17.555Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:24:17.555Z",
+    "updatedAt": "2026-11-19T19:26:30.271Z",
     "updatedBy": "derek"
   },
   {
