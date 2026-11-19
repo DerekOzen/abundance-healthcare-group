@@ -1465,7 +1465,7 @@
   },
   {
     "id": "pg-89",
-    "path": "/contact-2",
+    "path": "/contact",
     "type": "page",
     "title": "Contact Abundance Healthcare Group, Campbelltown",
     "seoTitle": "Contact Abundance Healthcare Group, Campbelltown",
@@ -1473,10 +1473,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:24:17.555Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:24:17.555Z",
+    "updatedAt": "2026-11-19T19:25:56.106Z",
     "updatedBy": "derek"
   },
   {
