@@ -1194,7 +1194,7 @@
   },
   {
     "id": "pg-73",
-    "path": "/blog-ndis-high-intensity-support-criteria",
+    "path": "/blog/ndis-high-intensity-support-criteria",
     "type": "post",
     "title": "NDIS High Intensity Support Criteria Explained | Abundance",
     "seoTitle": "NDIS High Intensity Support Criteria Explained | Abundance",
@@ -1202,10 +1202,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T11:06:15.489Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T11:06:15.489Z",
+    "updatedAt": "2026-11-19T11:07:09.423Z",
     "updatedBy": "derek"
   },
   {
