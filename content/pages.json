@@ -1228,7 +1228,7 @@
   },
   {
     "id": "pg-75",
-    "path": "/clinical-capabilities-2",
+    "path": "/clinical-capabilities",
     "type": "page",
     "title": "Clinical Capabilities, Complex Care Nursing | Abundance",
     "seoTitle": "Clinical Capabilities, Complex Care Nursing | Abundance",
@@ -1236,10 +1236,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T11:08:33.428Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T11:08:33.428Z",
+    "updatedAt": "2026-11-19T11:10:02.423Z",
     "updatedBy": "derek"
   },
   {
