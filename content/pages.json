@@ -1501,7 +1501,7 @@
   },
   {
     "id": "pg-91",
-    "path": "/for-referrers-hospital-discharge-planners",
+    "path": "/for-referrers/hospital-discharge-planners",
     "type": "page",
     "title": "Hospital to Home NDIS Support | Abundance Healthcare",
     "seoTitle": "Hospital to Home NDIS Support | Abundance Healthcare",
@@ -1509,10 +1509,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:24:17.555Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:24:17.555Z",
+    "updatedAt": "2026-11-19T19:28:48.818Z",
     "updatedBy": "derek"
   },
   {
