@@ -1569,7 +1569,7 @@
   },
   {
     "id": "pg-95",
-    "path": "/nursing-agency-perth",
+    "path": "/nursing-agency/perth",
     "type": "page",
     "title": "Nursing Agency Perth, Home Nursing | Abundance Healthcare",
     "seoTitle": "Nursing Agency Perth, Home Nursing | Abundance Healthcare",
@@ -1577,10 +1577,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:24:17.555Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:24:17.555Z",
+    "updatedAt": "2026-11-19T19:35:26.901Z",
     "updatedBy": "derek"
   },
   {
