@@ -1552,7 +1552,7 @@
   },
   {
     "id": "pg-94",
-    "path": "/nursing-agency-2",
+    "path": "/nursing-agency",
     "type": "page",
     "title": "NDIS Nursing Agency for Care at Home | Abundance Healthcare",
     "seoTitle": "NDIS Nursing Agency for Care at Home | Abundance Healthcare",
@@ -1560,10 +1560,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:24:17.555Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:24:17.555Z",
+    "updatedAt": "2026-11-19T19:33:30.443Z",
     "updatedBy": "derek"
   },
   {
