@@ -1177,7 +1177,7 @@
   },
   {
     "id": "pg-72",
-    "path": "/services-community-nursing-care",
+    "path": "/services/community-nursing-care",
     "type": "page",
     "title": "NDIS Community Nursing Care at Home | Abundance Healthcare",
     "seoTitle": "NDIS Community Nursing Care at Home | Abundance Healthcare",
@@ -1185,10 +1185,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T10:59:59.865Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:59:59.865Z",
+    "updatedAt": "2026-11-19T11:05:27.908Z",
     "updatedBy": "derek"
   }
 ]
