@@ -1329,7 +1329,7 @@
   },
   {
     "id": "pg-81",
-    "path": "/who-we-support-cerebral-palsy",
+    "path": "/who-we-support/cerebral-palsy",
     "type": "page",
     "title": "Cerebral Palsy NDIS Support for Adults | Abundance",
     "seoTitle": "Cerebral Palsy NDIS Support for Adults | Abundance",
@@ -1337,10 +1337,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T11:08:33.428Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T11:08:33.428Z",
+    "updatedAt": "2026-11-19T18:45:21.597Z",
     "updatedBy": "derek"
   },
   {
