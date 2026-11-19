@@ -1812,7 +1812,7 @@
   },
   {
     "id": "pg-109",
-    "path": "/locations-nsw-south-west-sydney-liverpool",
+    "path": "/locations/nsw/south-west-sydney-liverpool",
     "type": "location",
     "title": "NDIS Provider Liverpool, Clinical Care at Home | Abundance",
     "seoTitle": "NDIS Provider Liverpool, Clinical Care at Home | Abundance",
@@ -1820,10 +1820,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:39:45.472Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:39:45.472Z",
+    "updatedAt": "2026-11-19T19:42:29.585Z",
     "updatedBy": "derek"
   },
   {
