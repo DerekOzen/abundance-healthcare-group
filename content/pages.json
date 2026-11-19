@@ -1262,7 +1262,7 @@
   },
   {
     "id": "pg-77",
-    "path": "/services-assist-personal-activities",
+    "path": "/services/assist-personal-activities",
     "type": "page",
     "title": "NDIS Personal Care in Sydney and Perth | Abundance",
     "seoTitle": "NDIS Personal Care in Sydney and Perth | Abundance",
@@ -1270,10 +1270,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T11:08:33.428Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T11:08:33.428Z",
+    "updatedAt": "2026-11-19T18:36:12.515Z",
     "updatedBy": "derek"
   },
   {
