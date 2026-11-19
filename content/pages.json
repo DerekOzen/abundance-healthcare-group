@@ -1586,7 +1586,7 @@
   },
   {
     "id": "pg-96",
-    "path": "/nursing-agency-sydney",
+    "path": "/nursing-agency/sydney",
     "type": "page",
     "title": "Nursing Agency Sydney, Home Nursing Care | Abundance",
     "seoTitle": "Nursing Agency Sydney, Home Nursing Care | Abundance",
@@ -1594,10 +1594,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:24:17.555Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:24:17.555Z",
+    "updatedAt": "2026-11-19T19:36:23.970Z",
     "updatedBy": "derek"
   },
   {
