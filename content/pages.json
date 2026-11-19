@@ -1700,7 +1700,7 @@
   },
   {
     "id": "pg-102",
-    "path": "/locations-nsw-inner-west",
+    "path": "/locations/nsw/inner-west",
     "type": "location",
     "title": "NDIS Provider Inner West Sydney, Complex Care | Abundance",
     "seoTitle": "NDIS Provider Inner West Sydney, Complex Care | Abundance",
@@ -1708,10 +1708,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:39:45.472Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:39:45.472Z",
+    "updatedAt": "2026-11-19T19:40:58.299Z",
     "updatedBy": "derek"
   },
   {
