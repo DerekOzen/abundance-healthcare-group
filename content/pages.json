@@ -1071,5 +1071,21 @@
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/ahg-blog-abundance-healthcare-clinical-team.jpg",
     "featuredImageAlt": "Abundance Healthcare clinical team discussing complex NDIS care"
+  },
+  {
+    "id": "pg-66",
+    "path": "/home-2",
+    "type": "page",
+    "title": "Home 2",
+    "seoTitle": "NDIS Provider Sydney & Perth | Abundance Healthcare Group",
+    "seoDescription": "Nurse-led NDIS provider in Sydney and Perth for complex and clinical care: high intensity supports, community nursing and overnight care. Enquire today.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-11-19T10:57:29.110Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-19T10:57:29.110Z",
+    "createdBy": "derek"
   }
 ]
