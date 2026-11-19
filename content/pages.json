@@ -1764,7 +1764,7 @@
   },
   {
     "id": "pg-106",
-    "path": "/locations-nsw-south-west-sydney",
+    "path": "/locations/nsw/south-west-sydney",
     "type": "location",
     "title": "Disability Services South West Sydney | Abundance Healthcare",
     "seoTitle": "Disability Services South West Sydney | Abundance Healthcare",
@@ -1772,10 +1772,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:39:45.472Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:39:45.472Z",
+    "updatedAt": "2026-11-19T19:42:09.854Z",
     "updatedBy": "derek"
   },
   {
