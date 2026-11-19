@@ -1190,5 +1190,37 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-19T11:05:27.908Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-73",
+    "path": "/blog-ndis-high-intensity-support-criteria",
+    "type": "post",
+    "title": "NDIS High Intensity Support Criteria Explained | Abundance",
+    "seoTitle": "NDIS High Intensity Support Criteria Explained | Abundance",
+    "seoDescription": "NDIS high intensity support criteria explained: the eight support types, who qualifies and what a provider must prove before delivering them.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-19T11:06:15.489Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-19T11:06:15.489Z",
+    "updatedBy": "derek"
+  },
+  {
+    "id": "pg-74",
+    "path": "/blog-what-does-a-community-nurse-do",
+    "type": "post",
+    "title": "What Does a Community Nurse Do? NDIS Guide | Abundance",
+    "seoTitle": "What Does a Community Nurse Do? NDIS Guide | Abundance",
+    "seoDescription": "What does a community nurse do? The clinical tasks an NDIS community nurse covers at home, how the role differs from a support worker and who pays.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-19T11:06:15.489Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-19T11:06:15.489Z",
+    "updatedBy": "derek"
   }
 ]
