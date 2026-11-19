@@ -1892,7 +1892,7 @@
   },
   {
     "id": "pg-114",
-    "path": "/locations-nsw-western-sydney-penrith",
+    "path": "/locations/nsw/western-sydney-penrith",
     "type": "location",
     "title": "Disability Services Penrith, Complex Care | Abundance",
     "seoTitle": "Disability Services Penrith, Complex Care | Abundance",
@@ -1900,10 +1900,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:39:45.472Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:39:45.472Z",
+    "updatedAt": "2026-11-19T19:44:03.068Z",
     "updatedBy": "derek"
   },
   {
