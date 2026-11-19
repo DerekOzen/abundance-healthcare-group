@@ -1484,7 +1484,7 @@
   },
   {
     "id": "pg-90",
-    "path": "/for-referrers-2",
+    "path": "/for-referrers",
     "type": "page",
     "title": "For Referrers, Complex Care Provider | Abundance Healthcare",
     "seoTitle": "For Referrers, Complex Care Provider | Abundance Healthcare",
@@ -1492,10 +1492,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:24:17.555Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:24:17.555Z",
+    "updatedAt": "2026-11-19T19:27:57.175Z",
     "updatedBy": "derek"
   },
   {
