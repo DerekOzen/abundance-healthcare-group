@@ -1160,7 +1160,7 @@
   },
   {
     "id": "pg-71",
-    "path": "/services-assist-travel-transport",
+    "path": "/services/assist-travel-transport",
     "type": "page",
     "title": "NDIS Transport Services and Travel Assistance | Abundance",
     "seoTitle": "NDIS Transport Services and Travel Assistance | Abundance",
@@ -1168,10 +1168,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T10:59:59.865Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T10:59:59.865Z",
+    "updatedAt": "2026-11-19T11:04:37.467Z",
     "updatedBy": "derek"
   },
   {
