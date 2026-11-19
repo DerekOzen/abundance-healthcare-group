@@ -1780,7 +1780,7 @@
   },
   {
     "id": "pg-107",
-    "path": "/locations-nsw-south-west-sydney-bankstown",
+    "path": "/locations/nsw/south-west-sydney-bankstown",
     "type": "location",
     "title": "NDIS Provider Bankstown, High Intensity Care | Abundance",
     "seoTitle": "NDIS Provider Bankstown, High Intensity Care | Abundance",
@@ -1788,10 +1788,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:39:45.472Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:39:45.472Z",
+    "updatedAt": "2026-11-19T19:42:14.045Z",
     "updatedBy": "derek"
   },
   {
