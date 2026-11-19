@@ -1245,7 +1245,7 @@
   },
   {
     "id": "pg-76",
-    "path": "/services-2",
+    "path": "/services",
     "type": "page",
     "title": "Complex Care Services Under the NDIS | Abundance Healthcare",
     "seoTitle": "Complex Care Services Under the NDIS | Abundance Healthcare",
@@ -1253,10 +1253,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T11:08:33.428Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T11:08:33.428Z",
+    "updatedAt": "2026-11-19T18:35:16.931Z",
     "updatedBy": "derek"
   },
   {
