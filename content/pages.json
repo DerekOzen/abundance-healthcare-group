@@ -1619,7 +1619,7 @@
   },
   {
     "id": "pg-98",
-    "path": "/referral-2",
+    "path": "/referral",
     "type": "page",
     "title": "NDIS Referral Form | Abundance Healthcare Group",
     "seoTitle": "NDIS Referral Form | Abundance Healthcare Group",
@@ -1627,10 +1627,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T19:24:17.555Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T19:24:17.555Z",
+    "updatedAt": "2026-11-19T19:36:58.169Z",
     "updatedBy": "derek"
   },
   {
